@@ -22,6 +22,7 @@ namespace Imps.Services.CommonV4
 				}
 			} catch (Exception ex) {
 				SystemLog.Warn(LogEventID.PerformanceCounterFailed, ex, "PerformanceCounter<{0}> Create Failed", categoryAttr.CategoryName);
+                throw ex;
 			}
 		}
 
