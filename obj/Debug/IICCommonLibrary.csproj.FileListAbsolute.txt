@@ -1,0 +1,8 @@
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\bin\Debug\IICCommonLibrary.dll.config
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\bin\Debug\IICCommonLibrary.dll
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\bin\Debug\IICCommonLibrary.pdb
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\bin\Debug\MySql.Data.dll
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\bin\Debug\MySql.Data.xml
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\obj\Debug\IICCommonLibrary.csprojResolveAssemblyReference.cache
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\obj\Debug\IICCommonLibrary.dll
+D:\WORK_SHOP\src\v4.1\src\common\IICCommonLibrary\obj\Debug\IICCommonLibrary.pdb
